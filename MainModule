@@ -11,7 +11,7 @@ local ConvertToTable = loadstring(game:HttpGet("https://raw.githubusercontent.co
 local AutoGetMotor6D = loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ69420/PlayAnimationsAnyGame/refs/heads/main/AutoGetMotor6D"))()
 local GetFrameInBetween = loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ69420/PlayAnimationsAnyGame/refs/heads/main/GetFrameInBetween"))()
 local GroupTamplate = loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ69420/PlayAnimationsAnyGame/refs/heads/main/GroupTemplate"))()
-local ReturnableTypes = loadstring(game:HttpGet("https://raw.githubusercontent.com/ProudNamed/SuperLightning/refs/heads/main/AnimModule/ReturnableTypes"))()
+local ReturnableTypes = loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ69420/PlayAnimationsAnyGame/refs/heads/main/ReturnableTypes"))()
 
 type AnimType = ReturnableTypes.AnimationSequance
 type SettingsType = ReturnableTypes.Setting
