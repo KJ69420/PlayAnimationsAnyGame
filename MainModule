@@ -10,7 +10,7 @@ local PriorityTable = loadstring(game:HttpGet("https://raw.githubusercontent.com
 local ConvertToTable = loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ69420/PlayAnimationsAnyGame/refs/heads/main/ConvertToTable"))()
 local AutoGetMotor6D = loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ69420/PlayAnimationsAnyGame/refs/heads/main/AutoGetMotor6D"))()
 local GetFrameInBetween = loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ69420/PlayAnimationsAnyGame/refs/heads/main/GetFrameInBetween"))()
-local GroupTamplate = loadstring(game:HttpGet("https://raw.githubusercontent.com/ProudNamed/SuperLightning/refs/heads/main/AnimModule/GroupTemplate"))()
+local GroupTamplate = loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ69420/PlayAnimationsAnyGame/refs/heads/main/"))()
 local ReturnableTypes = loadstring(game:HttpGet("https://raw.githubusercontent.com/ProudNamed/SuperLightning/refs/heads/main/AnimModule/ReturnableTypes"))()
 
 type AnimType = ReturnableTypes.AnimationSequance
